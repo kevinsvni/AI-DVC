@@ -1,0 +1,1 @@
+LogisticRegression(C=0.1, class_weight='dict', penalty='l1', solver='saga')

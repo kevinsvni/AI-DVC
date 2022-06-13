@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/kvnsvni/Downloads/AI/python/mlruns/0/e0ce27da955e4dbdbf09987392ea9dc8/artifacts
+end_time: 1655092783794
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: deleted
+name: ''
+run_id: e0ce27da955e4dbdbf09987392ea9dc8
+run_uuid: e0ce27da955e4dbdbf09987392ea9dc8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1655092783718
+status: 3
+tags: []
+user_id: kvnsvni

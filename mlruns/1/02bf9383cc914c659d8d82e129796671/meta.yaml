@@ -1,0 +1,15 @@
+artifact_uri: ./mlruns/1/02bf9383cc914c659d8d82e129796671/artifacts
+end_time: 1655091533037
+entry_point_name: ''
+experiment_id: '1'
+lifecycle_stage: deleted
+name: ''
+run_id: 02bf9383cc914c659d8d82e129796671
+run_uuid: 02bf9383cc914c659d8d82e129796671
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1655091533016
+status: 3
+tags: []
+user_id: kvnsvni
